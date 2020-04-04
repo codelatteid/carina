@@ -2,8 +2,9 @@
 
 <center>
     
+![PHP Composer](https://github.com/c0delatte/carina/workflows/PHP%20Composer/badge.svg)
 ![PHP Version](https://img.shields.io/badge/php-%5E%207.1.3-red)
-![Github Stars](https://img.shields.io/github/stars/codelatte/carina.svg)
+![Github Stars](https://img.shields.io/github/stars/c0delatte/carina.svg)
 ![Contributors Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 </center>
@@ -20,7 +21,7 @@
 <img src="https://assets.codelatte.net/20200405041451-carina-4.png">
 
 ## Install Carina
-1. ```$ git clone https://github.com/codelatte/carina && cd carina```
+1. ```$ git clone https://github.com/c0delatte/carina && cd carina```
 2. Run ```composer update```.
 3. Edit ```.env.example``` with your database configuration.
 4. Run ```php artisan migrate``` for generate required tables.
