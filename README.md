@@ -1,4 +1,4 @@
-<p align="center"><img src="https://assets.codelatte.net/20200405033953-carina.png" width="100%"></p>
+<p align="center"><img src="https://assets.codelatte.net/20200405033953-carina-n.png" width="100%"></p>
 
 <center>
     
@@ -15,10 +15,10 @@
 
 ## Screenshots
 
-<img src="https://assets.codelatte.net/20200405041451-carina-1.png">
-<img src="https://assets.codelatte.net/20200405041451-carina-2.png">
-<img src="https://assets.codelatte.net/20200405041451-carina-3.png">
-<img src="https://assets.codelatte.net/20200405041451-carina-4.png">
+<img src="https://assets.codelatte.net/20200405041451-carina-1-n.png">
+<img src="https://assets.codelatte.net/20200405041451-carina-2-n.png">
+<img src="https://assets.codelatte.net/20200405041451-carina-3-n.png">
+<img src="https://assets.codelatte.net/20200405041451-carina-4-n.png">
 
 ## Install Carina
 1. ```$ git clone https://github.com/c0delatte/carina && cd carina```
