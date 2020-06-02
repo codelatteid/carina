@@ -24,8 +24,10 @@
 1. ```$ git clone https://github.com/c0delatte/carina && cd carina```
 2. Run ```composer update```.
 3. Edit ```.env.example``` with your database configuration.
-4. Run ```php artisan migrate``` for generate required tables.
-4. Run ```php artisan serve```.
+4. Rename ```.env.example``` to ```.env```.
+5. Run ```php artisan key:generate``` to generate application key.
+5. Run ```php artisan migrate``` for generate required tables.
+6. Run ```php artisan serve```.
 
 ## Contact
 
