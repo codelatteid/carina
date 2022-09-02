@@ -13,13 +13,6 @@
 
 **Carina** is a web application used to store webshell, Virtual Private Server (VPS) and cPanel data. **Carina** is made so that we don't need to store webshell, VPS or cPanel data in "strange places".
 
-## Screenshots
-
-<img src="https://assets.codelatte.net/20200405041451-carina-1-n.png">
-<img src="https://assets.codelatte.net/20200405041451-carina-2-n.png">
-<img src="https://assets.codelatte.net/20200405041451-carina-3-n.png">
-<img src="https://assets.codelatte.net/20200405041451-carina-4-n.png">
-
 ## Install Carina
 1. ```$ git clone https://github.com/c0delatte/carina && cd carina```
 2. Run ```composer update```.
